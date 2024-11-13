@@ -6,3 +6,5 @@ Ciclos de vida del software y codigo etico.
 Avances:
 Tipos de metodologias agiles, Ingenieria de requerimientos, gestion de riesgos y control de versiones
 He trabajado en Visual Code Studios, Bucle (For y while), Hacer codigo en JavaScript y hacer paginas simple en HTML. 
+Proximos Pasos:
+Mi objetivo es mejorar en el tema de elaborar codigos mas complejos, y ser mas optimo a la hora de su elaboracion 
